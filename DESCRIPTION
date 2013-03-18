@@ -1,0 +1,15 @@
+Package: ConnectivityMap
+Type: Package
+Title: Functional connections between drugs, genes and diseases as revealed by common gene-expression changes
+Version: 0.99.9
+Date: 2013-03-15
+Author: Paul Shannon
+Maintainer: Paul Shannon<pshannon@fhcrc.org>
+Depends: R (>= 2.15.1)
+Suggests: RUnit, BiocGenerics
+Description: The Broad Institute's Connectivity Map (cmap02) is a "large
+  reference catalogue of gene-expression data from cultured human
+  cells perturbed with many chemicals and genetic reagents", containing more
+  than 7000 gene expression profiles and 1300 small molecules.
+BiocViews: Microarray, GeneExpression, ExperimentData
+License: GPL-3
