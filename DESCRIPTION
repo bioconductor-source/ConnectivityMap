@@ -1,7 +1,7 @@
 Package: ConnectivityMap
 Type: Package
 Title: Functional connections between drugs, genes and diseases as revealed by common gene-expression changes
-Version: 1.15.0
+Version: 1.16.0
 Date: 2013-03-15
 Author: Paul Shannon
 Maintainer: Paul Shannon<pshannon@systemsbiology.org>
